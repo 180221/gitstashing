@@ -1,1 +1,1 @@
-newfile is created
+newfile is created and stashed
