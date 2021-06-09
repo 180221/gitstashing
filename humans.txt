@@ -2,3 +2,4 @@ changes:not done yet
 changes is done firtsttime and second time
 chekcing stashing and pop
 checking multiple stashes
+checking stash with bransch
